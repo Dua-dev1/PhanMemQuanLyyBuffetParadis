@@ -16,7 +16,8 @@ public class QuanLyPhanMem_BuffetParadis {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Heloo");
-        System.out.println("Tao la Vinh");
+        System.out.println("Niggaaaaa fpt");
+        
     }
     
 }
